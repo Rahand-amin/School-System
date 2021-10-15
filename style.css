@@ -57,6 +57,15 @@ h1 {
     text-decoration: none;
 }
 
+#dgma3{
+
+    background-color: rgb(251, 255, 0);
+    font-size: 130%;
+    margin-left: 2%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-decoration: none;
+}
+
 #demo {
     font-size: 190%;
     margin-top: 4%;
@@ -78,5 +87,10 @@ h1 {
 #dgma2:hover {
     transition: 0.1s;
     background-color: gold;
+    box-shadow: 1px 1px 10px 1px white;
+}
+#dgma3:hover {
+    transition: 0.1s;
+    background-color: rgb(255, 0, 0);
     box-shadow: 1px 1px 10px 1px white;
 }
