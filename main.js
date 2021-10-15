@@ -32,6 +32,13 @@ function myFunction() {
 };
 
 
+function myfunction1() {
+
+    if (confirm("Are you sure, want to clear?")) {
+        location.reload();
+    }
+};
+
 // Add the Variables to the Set
 
 
