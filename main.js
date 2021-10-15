@@ -32,7 +32,7 @@ function myFunction() {
 };
 
 
-function myfunction1() {
+function myfunctionbir() {
 
     if (confirm("Are you sure, want to clear?")) {
         location.reload();
